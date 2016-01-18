@@ -15,6 +15,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
     TextView tvregisterLink;
     com.example.yogeshdarji.loginregister.UserLocalStore userLocalStore;
 
+    //Login Activity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
