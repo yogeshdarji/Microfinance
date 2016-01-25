@@ -16,7 +16,7 @@ public class User {
         this.username = username;
         this.password = password;
     }
-
+//Pass username and password
     public User(String username, String password) {
         this("", -1,"","", username, password);
     }
